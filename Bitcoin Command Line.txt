@@ -1,0 +1,3 @@
+Opens Bitcoin-qt with regtest
+C:\Program Files\Bitcoin
+bitcoin-qt -regtest -daemon -txindex -listen=0 
